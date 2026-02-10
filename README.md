@@ -14,5 +14,5 @@ Interested in Python software engineering / data systems.
 
 ## Links
 - LinkedIn: www.linkedin.com/in/marta-moriano-moncada-3128b4377
-- Email: [martamm222@gmail.com}(mailto:martamm222@gmail.com)
+- Email: [martamm222@gmail.com](mailto:martamm222@gmail.com)
   
