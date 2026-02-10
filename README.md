@@ -1,16 +1,18 @@
-## Hi there 👋
+# Marta Moriano Moncada
 
-<!--
-**MartaM3/MartaM3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Math & Physics (UCM) • Python • Graduating 2027  
+Interested in Python software engineering / data systems.
 
-Here are some ideas to get you started:
+## What I’m working on
+- Building production-style Python projects (tests, CI, clean architecture)
+- Turning analytical tools into reliable software (APIs / pipelines)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured projects
+- Data-Driven Decision Tool — multi-criteria ranking tool (Python)
+- Market Sizing Tool — scenario modeling for TAM/SAM/SOM (Python)
+- Sentiment Analyzer — text analysis pipeline (Python)
+
+## Links
+- LinkedIn: www.linkedin.com/in/marta-moriano-moncada-3128b4377
+- Email: [martamm222@gmail.com}(mailto:martamm222@gmail.com)
+  
