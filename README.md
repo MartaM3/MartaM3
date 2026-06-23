@@ -8,7 +8,9 @@ Interested in Python software engineering / data systems.
 - Turning analytical tools into reliable software (APIs / pipelines)
 
 ## Featured projects
--Fintech-onboarding-funnel-analytics
+
+- Fintech-onboarding-funnel-analytics
+- Superluminal and subluminal propagation of ultrashort pulses in vacuum (TFG)
 - Data-Driven Decision Tool — multi-criteria ranking tool (Python)
 - Market Sizing Tool — scenario modeling for TAM/SAM/SOM (Python)
 - Sentiment Analyzer — text analysis pipeline (Python)
